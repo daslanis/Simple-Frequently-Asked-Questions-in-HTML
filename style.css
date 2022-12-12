@@ -1,0 +1,17 @@
+.question{
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+  user-select: none;
+}
+
+.answer{
+font-style: italic;
+cursor: pointer;
+user-select: none;
+padding-left: 2%;
+}
+
+.one, .two, .three{
+  display: none;
+}
